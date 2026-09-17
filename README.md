@@ -110,7 +110,7 @@ If you're working on something interesting, I'd be happy to connect.
 
 📧 **Email:** Murhej.hantoush.Work@gmail.com
 
-💼 **LinkedIn:** Linkedin -  Murhej
+💼 **LinkedIn:** (https://www.linkedin.com/in/murhej-hantoush-928a90198/)
 
 ---
 
