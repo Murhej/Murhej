@@ -18,19 +18,31 @@ Rather than stopping at the model, I like taking projects from **data and experi
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-`Python` • `JavaScript` • `Java` • `SQL`
+### Programming Languages
+Python • Java • C# • JavaScript • TypeScript • Kotlin • SQL
 
-### AI & Machine Learning
-`Machine Learning` • `Deep Learning` • `Computer Vision` • `Image Classification`
+### Frontend / Mobile
+React • React Native
 
-### Development
-`FastAPI` • `React Native` • `REST APIs`
+### Full-Stack Development
+MERN Stack • MEAN Stack
+
+### Databases
+MongoDB • Oracle SQL • SQL
+
+### Cloud & Big Data
+AWS • Microsoft Azure • Azure Big Data Services
+
+### AI / Machine Learning
+PyTorch • Machine Learning • Computer Vision • Predictive Modeling
+
+### Backend / APIs
+FastAPI • REST APIs
 
 ### Tools
-`Git` • `GitHub`
+Git • GitHub • Expo
 
 ---
 
