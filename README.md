@@ -108,17 +108,9 @@ I'm open to:
 
 If you're working on something interesting, I'd be happy to connect.
 
-📧 **Email:** [YOUR EMAIL]
+📧 **Email:** Murhej.hantoush.Work@gmail.com
 
-💼 **LinkedIn:** [YOUR LINKEDIN URL]
-
----
-
-## 📊 GitHub Activity
-
-![Murhej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murhej&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murhej&layout=compact&hide_border=true)
+💼 **LinkedIn:** Linkedin -  Murhej
 
 ---
 
